@@ -1,0 +1,17 @@
+/logs/
+
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+
+
+# Maven
+!**/src/main/**/target/
+!**/src/test/**/target/
+.mvn/
+mvnw
+mvnw.cmd
+target/

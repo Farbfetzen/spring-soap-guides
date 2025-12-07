@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: "Spring SOAP Producer"
+    webservices:
+        wsdl-locations: "classpath:META-INF/schemas/"
